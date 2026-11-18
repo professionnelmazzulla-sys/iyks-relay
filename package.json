@@ -1,0 +1,10 @@
+{
+  "name": "i-know-your-secrets-relay",
+  "version": "1.0.0",
+  "description": "Serveur relais (codes de salle, 6 joueurs) pour I know your secrets",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
